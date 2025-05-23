@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "複数のトークンはセミコロンで区切って提供できます。例:",
     "analyzer_snyk_org_id": "組織ID",
     "analyzer_snyk_why_multiple_cvss": "同じ脆弱性に対して複数の CVSS スコアがあるのはなぜですか?",
+    "analyzer_sbom_enable": "SBOMアナライザーを有効にする",
     "analyzer_trivy_enable": "Trivyアナライザーを有効にする",
     "analyzer_trivy_ignore_unfixed": "未修正の脆弱性を無視する",
     "analyzer_trivy_scan_library": "Eseguire la scansione di pacchetti specifici per la lingua (ad esempio pacchetti installati da pip, npm o gem)",

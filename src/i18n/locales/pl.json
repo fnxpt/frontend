@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "Można podać wiele tokenów oddzielając je średnikami, np.",
     "analyzer_snyk_org_id": "Identyfikator organizacji",
     "analyzer_snyk_why_multiple_cvss": "Dlaczego dla tej samej luki istnieje wiele wyników CVSS?",
+    "analyzer_sbom_enable": "Włącz analizator SBOM",
     "analyzer_trivy_enable": "Włącz analizator Trivy",
     "analyzer_trivy_ignore_unfixed": "Ignoruj ​​nienaprawione luki",
     "analyzer_trivy_scan_library": "Skanowanie pakietów specyficznych dla danego języka (np. pakietów zainstalowanych przez pip, npm lub gem)",

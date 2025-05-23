@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "Plusieurs jetons peuvent être fournis en les séparant par des points-virgules, par ex.",
     "analyzer_snyk_org_id": "ID d'organisation",
     "analyzer_snyk_why_multiple_cvss": "Pourquoi existe-t-il plusieurs scores CVSS pour la même vulnérabilité ?",
+    "analyzer_sbom_enable": "Activer l'analyseur SBOM",
     "analyzer_trivy_enable": "Activer l'analyseur Trivy",
     "analyzer_trivy_ignore_unfixed": "Ignorer les vulnérabilités non corrigées",
     "analyzer_trivy_scan_library": "Analyser les paquets spécifiques à une langue (par exemple, les paquets installés par pip, npm ou gem)",

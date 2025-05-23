@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "Кілька маркерів можна надати, розділивши їх крапкою з комою, напр.",
     "analyzer_snyk_org_id": "ID організації",
     "analyzer_snyk_why_multiple_cvss": "Чому існує кілька оцінок CVSS для однієї і тієї ж вразливості?",
+    "analyzer_sbom_enable": "Увімкніть аналізатор SBOM",
     "analyzer_trivy_enable": "Увімкніть аналізатор Trivy",
     "analyzer_trivy_ignore_unfixed": "Ігноруйте невиправлені вразливості",
     "analyzer_trivy_scan_library": "Сканування пакунків для певної мови (наприклад, пакунків, встановлених за допомогою pip, npm або gem)",

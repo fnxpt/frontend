@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "可以提供多个标记，用分号分隔它们，例如",
     "analyzer_snyk_org_id": "组织 ID",
     "analyzer_snyk_why_multiple_cvss": "为什么同一漏洞有多个 CVSS 评分？",
+    "analyzer_sbom_enable": "启用 SBOM 分析器",
     "analyzer_trivy_enable": "启用 Trivy 分析器",
     "analyzer_trivy_ignore_unfixed": "忽略未修复的漏洞",
     "analyzer_trivy_scan_library": "扫描特定语言的软件包（例如通过 pip、npm 或 gem 安装的软件包",

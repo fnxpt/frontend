@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "Multiple tokens may be provided by separating them with semicolons, e.g. ",
     "analyzer_snyk_org_id": "Organization ID",
     "analyzer_snyk_why_multiple_cvss": "Why are there multiple CVSS Scores for the same vulnerability?",
+    "analyzer_sbom_enable": "Enable SBOM analyzer",
     "analyzer_trivy_enable": "Enable Trivy analyzer",
     "analyzer_trivy_ignore_unfixed": "Ignore unfixed vulnerabilities",
     "analyzer_trivy_scan_library": "Scan language-specific packages (e.g. packages installed by pip, npm, or gem)",

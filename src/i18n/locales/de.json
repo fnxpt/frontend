@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "Mehrere Token können durch Semikolons getrennt angegeben werden, z. B.",
     "analyzer_snyk_org_id": "Organisations-ID",
     "analyzer_snyk_why_multiple_cvss": "Warum gibt es mehrere CVSS-Scores für dieselbe Schwachstelle?",
+    "analyzer_sbom_enable": "SBOM-Analyzer aktivieren",
     "analyzer_trivy_enable": "Trivy-Analyzer aktivieren",
     "analyzer_trivy_ignore_unfixed": "Nicht behobene Schwachstellen ignorieren",
     "analyzer_trivy_scan_library": "Scannen von sprachspezifischen Paketen (z. B. von pip, npm oder gem)",

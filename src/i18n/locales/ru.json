@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "Можно указать несколько токенов, разделяя их точкой с запятой, например",
     "analyzer_snyk_org_id": "Идентификатор организации",
     "analyzer_snyk_why_multiple_cvss": "Почему у одной и той же уязвимости несколько оценок CVSS?",
+    "analyzer_sbom_enable": "Включить анализатор SBOM",
     "analyzer_trivy_enable": "Включить анализатор Trivy",
     "analyzer_trivy_ignore_unfixed": "Игнорировать неустранённые уязвимости",
     "analyzer_trivy_scan_library": "Сканируйте пакеты для конкретного языка (например, пакеты, установленные с помощью pip, npm или gem)",

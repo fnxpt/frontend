@@ -38,6 +38,7 @@
     "analyzer_snyk_multiple_tokens_info": "Vários tokens podem ser fornecidos separando-os com ponto e vírgula, por ex.",
     "analyzer_snyk_org_id": "ID da organização",
     "analyzer_snyk_why_multiple_cvss": "Por que existem várias pontuações CVSS para a mesma vulnerabilidade?",
+    "analyzer_sbom_enable": "Habilitar analisador SBOM",
     "analyzer_trivy_enable": "Habilitar analisador Trivy",
     "analyzer_trivy_ignore_unfixed": "Ignore vulnerabilidades não corrigidas",
     "analyzer_trivy_scan_library": "Verificar pacotes específicos do idioma (por exemplo, pacotes instalados por pip, npm ou gem)",

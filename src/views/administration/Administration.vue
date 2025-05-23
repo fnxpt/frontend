@@ -34,6 +34,7 @@ import InternalAnalyzer from './analyzers/InternalAnalyzer';
 import OssIndexAnalyzer from './analyzers/OssIndexAnalyzer';
 import SnykAnalyzer from './analyzers/SnykAnalyzer';
 import TrivyAnalyzer from './analyzers/TrivyAnalyzer';
+import SbomAnalyzer from './analyzers/SbomAnalyzer';
 import VulnDbAnalyzer from './analyzers/VulnDbAnalyzer';
 // Vulnerability sources
 import VulnSourceGitHubAdvisories from './vuln-sources/VulnSourceGitHubAdvisories';
@@ -88,6 +89,7 @@ export default {
     VulnDbAnalyzer,
     SnykAnalyzer,
     TrivyAnalyzer,
+    SbomAnalyzer,
     VulnSourceNvd,
     VulnSourceGitHubAdvisories,
     VulnSourceOSVAdvisories,

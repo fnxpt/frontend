@@ -53,6 +53,8 @@ const SnykAnalyzer = () =>
   import('@/views/administration/analyzers/SnykAnalyzer');
 const TrivyAnalyzer = () =>
   import('@/views/administration/analyzers/TrivyAnalyzer');
+const SbomAnalyzer = () =>
+  import('@/views/administration/analyzers/SbomAnalyzer');
 
 const VulnSourceNvd = () =>
   import('@/views/administration/vuln-sources/VulnSourceNvd');
@@ -523,6 +525,17 @@ function configRoutes() {
             {
               path: 'analyzers/trivy',
               component: TrivyAnalyzer,
+              meta: {
+                title: i18n.t('message.administration'),
+                i18n: 'message.administration',
+                sectionPath: '/admin',
+                sectionName: 'Admin',
+                permission: 'SYSTEM_CONFIGURATION',
+              },
+            },
+            {
+              path: 'analyzers/sbom',
+              component: SbomAnalyzer,
               meta: {
                 title: i18n.t('message.administration'),
                 i18n: 'message.administration',
