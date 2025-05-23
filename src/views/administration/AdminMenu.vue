@@ -161,7 +161,7 @@ export default {
             },
             {
               component: 'SbomAnalyzer',
-              name: this.$t('admin.trivy'),
+              name: this.$t('admin.sbom'),
               route: 'analyzers/sbom',
             },
           ],

@@ -304,7 +304,8 @@
     "vulnsource_osv_base_url": "URL base do OSV",
     "welcome_message": "Mensagem de boas-vindas",
     "welcome_message_desc": "Personalize a mensagem de boas-vindas que aparece na página inicial do Dependency-Track antes dos usuários fazerem login.",
-    "welcome_message_enable": "Ativar mensagem de boas-vindas"
+    "welcome_message_enable": "Ativar mensagem de boas-vindas",
+    "sbom": "SBOM"
   },
   "condition": {
     "forbidden": "Proibido (403)",

@@ -304,7 +304,8 @@
     "vulnsource_osv_base_url": "Базовый URL OSV",
     "welcome_message": "Приветственное сообщение",
     "welcome_message_desc": "Настройте приветственное сообщение, которое отображается на стартовой странице Dependency-Track перед входом пользователей.",
-    "welcome_message_enable": "Включить приветственное сообщение"
+    "welcome_message_enable": "Включить приветственное сообщение",
+    "sbom": "SBOM"
   },
   "condition": {
     "forbidden": "Запрещено (403)",
